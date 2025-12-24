@@ -1,8 +1,4 @@
-layout: page
-title: "Gute Arbeit"
-permalink: /jgmery
 
-<!DOCTYPE html>
 <html lang="de">
 <head>
     <meta charset="UTF-8">
